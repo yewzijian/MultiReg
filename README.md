@@ -10,6 +10,12 @@ This repository contains the code for
 }
 ```
 
+See the following link for a video demonstration on the ScanNet dataset.
+
+<a href="https://www.youtube.com/watch?v=FpAFXSkVSpY">
+    <img src="docs/video_demo.png" width="600" height="335">
+</a>
+
 
 
 ## Prerequisites
@@ -148,4 +154,3 @@ For our experiments, we tried two settings:
    cd src
    python train_graph.py --dataset 3dmatch
    ```
-   
