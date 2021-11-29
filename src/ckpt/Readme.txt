@@ -1,0 +1,1 @@
+This contains our final trained checkpoints, for generating the results reported in the paper.

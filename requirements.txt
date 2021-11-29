@@ -1,0 +1,10 @@
+coloredlogs
+easydict
+hdf5storage
+GitPython
+networkx
+numpy
+scipy
+tensorboard
+torch==1.7.1
+torchvision==0.8.2
